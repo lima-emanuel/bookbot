@@ -1,0 +1,10 @@
+[project]
+name = "bookbot"
+version = "0.1.0"
+description = "A Boot.dev project"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "mypy>=1.20.0",
+    "ruff>=0.15.9",
+]
